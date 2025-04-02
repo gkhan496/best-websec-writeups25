@@ -1,1 +1,1 @@
-# best-websec-writeups25
+# Best Web Security Writeups - 2025
